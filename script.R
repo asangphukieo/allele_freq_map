@@ -124,7 +124,7 @@ mapplot1 <- ggplot(worldmap) +
             position = position_dodge(width = 0.75), hjust = 0, vjust = 0, size = 2, angle = 0, color= "gray20",
             check_overlap = FALSE, na.rm = FALSE, show.legend = FALSE, 
             inherit.aes = TRUE) +
-  labs(title = "Allele frequency of BPSL1661", x = "Longitude", y = "Latitude") +
+  labs(title = "Allele frequency map", x = "Longitude", y = "Latitude") +
   theme(legend.position = "top")
 
 mapplot1
@@ -144,7 +144,7 @@ mapplot2 <- ggplot(worldmap) +
             position = position_dodge(width = 0.75), hjust = 0, vjust = 0, size = 2, angle = 0, color= "gray20",
             check_overlap = FALSE, na.rm = FALSE, show.legend = FALSE, 
             inherit.aes = TRUE) +
-  labs(title = "Allele frequency of BPSL1661", x = "Longitude", y = "Latitude") +
+  labs(title = "Allele frequency map", x = "Longitude", y = "Latitude") +
   theme(legend.position = "top")
 
 mapplot2
