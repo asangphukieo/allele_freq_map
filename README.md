@@ -10,9 +10,9 @@ R script for visualising allele frequency on world map
 2. conda activate mapplot_r
 3. Rscript script.R ./input_file/test_data.txt ./countries.csv 4 out_file
 
-#countries.csv contains country names, and their latitute and longitute
-#4 is number of allele type
-#out_file is output file label
-#other parameters can be adjusted in script.R
+#countries.csv contains country names, and their latitute and longitute<br>
+#4 is number of allele type<br>
+#out_file is output file label<br>
+#other parameters can be adjusted in script.R<br>
 
 #reference source:https://github.com/mfmakahiya/Map-plot
