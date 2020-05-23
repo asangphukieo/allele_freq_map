@@ -1,0 +1,5 @@
+"country","ALLELE0","ALLELE1","ALLELE2","ALLELE3","ALLELE4","Total","country_code","latitude","longitude","multiplier"
+"Australia",36,0,2,9,0,47,"AU",-25.274398,133.775136,0.6
+"Gabon",0,1,0,0,0,1,"GA",-0.803689,11.609444,0.3
+"Puerto Rico",1,0,0,0,0,1,"PR",18.220833,-66.590149,0.3
+"Singapore",0,38,5,0,8,51,"SG",1.352083,103.819836,0.6
